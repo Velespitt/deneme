@@ -1,0 +1,14 @@
+{"oyunlar":[
+  { 
+  "oyunID":1,
+  "oyunturu":"RPG",
+  "oyunadi":"World Of Warcraft" },
+  {
+  "oyunID":2,
+  "oyunturu":"FPS",
+  "oyunadi":"CS:GO"},
+  {
+  "oyunID":3,
+  "oyunturu":"MOBA",
+  "oyunadi":"Dota 2"}
+]}
