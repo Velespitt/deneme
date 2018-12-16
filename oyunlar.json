@@ -5,10 +5,10 @@
   "oyunadi":"World Of Warcraft" },
   {
   "oyunID":2,
-  "oyunturu":"RPG",
-  "oyunadi":"Metin 2"},
+  "oyunturu":"FPS",
+  "oyunadi":"CS:GO"},
   {
   "oyunID":3,
-  "oyunturu":"RPG",
-  "oyunadi":"Silkroad"}
+  "oyunturu":"MOBA",
+  "oyunadi":"Dota 2"}
 ]}
