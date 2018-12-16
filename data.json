@@ -1,33 +1,39 @@
 ﻿[
  {
- "title": "Dawn of the Planet of the Apes",
- "rating": 8.3,
- "releaseYear": 2014
+ "Film Adı": "Interstellar",
+ "IMDB": 8.6,
+ "Yayınlanma Tarihi": 2014
  },
 {
- "title": "Dawn of the Planet of the Apes",
- "rating": 8.3,
- "releaseYear": 2014
+ "Film Adı": "Batman: Dark Knight",
+ "IMDB": 9,
+ "Yayınlanma Tarihi": 2008
  },
 {
- "title": "Dawn of the Planet of the Apes",
- "rating": 8.3,
- "releaseYear": 2014
+ "Film Adı": "Godfather",
+ "IMDB": 9.2,
+ "Yayınlanma Tarihi": 1972
  },
 {
- "title": "Dawn of the Planet of the Apes",
- "rating": 8.3,
- "releaseYear": 2014
+ "Film Adı": "The Lord Of The Rings",
+ "IMDB": 8.8,
+ "Yayınlanma Tarihi": 2001
  },
 {
- "title": "Dawn of the Planet of the Apes",
- "rating": 8.3,
- "releaseYear": 2014
+ "Film Adı": "Watchmen",
+ "IMDB": 7.6,
+ "Yayınlanma Tarihi": 2009
  },
 {
- "title": "Dawn of the Planet of the Apes",
- "rating": 8.3,
- "releaseYear": 2014
+ "Film Adı": "Fight Club",
+ "IMDB": 8.8,
+ "Yayınlanma Tarihi": 1999
+ },
+  {
+ "Film Adı": "Son Samuray",
+ "IMDB": 7,
+ "Yayınlanma Tarihi": 2003
  }
+  
  
 ]
