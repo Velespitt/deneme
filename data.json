@@ -1,38 +1,38 @@
 [
  {
- "Film Adı": "Interstellar",
- "IMDB": 8.6,
- "Yayınlanma Tarihi": 2014
+ "title": "Interstellar",
+ "rating": 8.6,
+ "releaseYear": 2014
  },
 {
- "Film Adı": "Batman: Dark Knight",
- "IMDB": 9,
- "Yayınlanma Tarihi": 2008
+ "title": "Batman: Dark Knight",
+ "rating": 9,
+ "releaseYear": 2008
  },
 {
- "Film Adı": "Godfather",
- "IMDB": 9.2,
- "Yayınlanma Tarihi": 1972
+ "title": "Godfather",
+ "rating": 9.2,
+ "releaseYear": 1972
  },
 {
- "Film Adı": "The Lord Of The Rings",
- "IMDB": 8.8,
- "Yayınlanma Tarihi": 2001
+ "title": "The Lord Of The Rings",
+ "rating": 8.8,
+ "releaseYear": 2001
  },
 {
- "Film Adı": "Watchmen",
- "IMDB": 7.6,
- "Yayınlanma Tarihi": 2009
+ "title": "Watchmen",
+ "rating": 7.6,
+ "releaseYear": 2009
  },
 {
- "Film Adı": "Fight Club",
- "IMDB": 8.8,
- "Yayınlanma Tarihi": 1999
+ "title": "Fight Club",
+ "rating": 8.8,
+ "releaseYear": 1999
  },
   {
- "Film Adı": "The Last Samurai",
- "IMDB": 7,
- "Yayınlanma Tarihi": 2003
+ "title": "The Last Samurai",
+ "rating": 7,
+ "releaseYear": 2003
  }
   
  
