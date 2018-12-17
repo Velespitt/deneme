@@ -1,0 +1,39 @@
+[
+ {
+ "title": "Film Adı:Interstellar",
+ "rating": 8.6,
+ "releaseYear": 2014
+ },
+{
+ "title": "Film Adı:Dark Knight",
+ "rating": 9,
+ "releaseYear": 2008
+ },
+{
+ "title": "Film Adı:Godfather",
+ "rating": 9.2,
+ "releaseYear": 1972
+ },
+{
+ "title": "Film Adı:The Lord Of The Rings",
+ "rating": 8.8,
+ "releaseYear": 2001
+ },
+{
+ "title": "Film Adı:Watchmen",
+ "rating": 7.6,
+ "releaseYear": 2009
+ },
+{
+ "title": "Film Adı:Fight Club",
+ "rating": 8.8,
+ "releaseYear": 1999
+ },
+  {
+ "title": "Film Adı:The Last Samurai",
+ "rating": 7,
+ "releaseYear": 2003
+ }
+  
+ 
+]
